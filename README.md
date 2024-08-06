@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# 세션 04: Azure 배포 &ndash; Azure Container Apps
+
+이 세션에서는 [.NET Aspire](https://learn.microsoft.com/ko-kr/dotnet/aspire/get-started/aspire-overview?WT.mc_id=dotnet-121695-juyoo)로 개발한 애플리케이션을 [Azure Developer CLI](https://learn.microsoft.com/ko-kr/azure/developer/azure-developer-cli/overview?WT.mc_id=dotnet-121695-juyoo)를 이용해 [Azure Container Apps](https://learn.microsoft.com/ko-kr/azure/container-apps/overview?WT.mc_id=dotnet-121695-juyoo)로 배포해 보겠습니다.
+
+> [GitHub Codespaces](https://docs.github.com/ko/codespaces/overview) 또는 [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=dotnet-121695-juyoo) 환경에서 작업하는 것을 기준으로 합니다.
+
+관련 문서: [Session 04](../../docs/04-azure-deployment-aca.md)
+=======
 # Aspire App Dev in a Day
 
 [GitHub Codespaces](https://docs.github.com/ko/codespaces/overview)와 [GitHub Copilot](https://docs.github.com/ko/copilot/overview-of-github-copilot/about-github-copilot-business)을 이용해서 [.NET Aspire](https://learn.microsoft.com/ko-kr/dotnet/aspire/get-started/aspire-overview?WT.mc_id=dotnet-121695-juyoo) 기반의 [Cloud-Native 앱](https://learn.microsoft.com/ko-kr/dotnet/architecture/cloud-native/?WT.mc_id=dotnet-121695-juyoo)을 개발해 보는 핸즈온 워크샵 자료입니다.
@@ -49,3 +58,4 @@
 - [Your stack for building Cloud Native apps](https://www.youtube.com/live/5IjKH-gy2Y0?si=dSMvC7arUeRpqBmz)
 - [Blazor JavaScript Interoperability](https://learn.microsoft.com/ko-kr/aspnet/core/blazor/javascript-interoperability/?WT.mc_id=dotnet-121695-juyoo)
 - [Semantic Kernel](https://learn.microsoft.com/ko-kr/semantic-kernel/overview/?WT.mc_id=dotnet-121695-juyoo)
+>>>>>>> 7b254c03fe0da280cd2a0c1ef57f14a7c328649b

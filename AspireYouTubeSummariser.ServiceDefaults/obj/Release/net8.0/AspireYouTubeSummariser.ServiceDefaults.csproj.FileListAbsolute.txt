@@ -1,0 +1,13 @@
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/bin/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.deps.json
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/bin/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.dll
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/bin/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.pdb
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.AssemblyInfo.cs
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.sourcelink.json
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.dll
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/refint/AspireYouTubeSummariser.ServiceDefaults.dll
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/AspireYouTubeSummariser.ServiceDefaults.pdb
+/Users/dgsw8th29/Desktop/aspire-app-dev-in-a-day-ko/aspire-app-dev-in-a-day-ko/workshop/AspireYouTubeSummariser.ServiceDefaults/obj/Release/net8.0/ref/AspireYouTubeSummariser.ServiceDefaults.dll
